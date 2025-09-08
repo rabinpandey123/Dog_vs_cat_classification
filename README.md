@@ -20,6 +20,8 @@ We use the Cat and Dog dataset from Kaggle:
 
 🔗 Kaggle Dataset: Cat and Dog
 
+You need to download the kaggle.json file by creating the new API token into the official kaggle websites: https://www.kaggle.com/datasets
+
 🏗 Model Architecture
 
 The CNN consists of:
