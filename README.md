@@ -2,7 +2,7 @@
 📌 Overview
 
       This project implements a Convolutional Neural Network (CNN) to classify whether an input image is of a dog 🐶 or a cat 🐱.
-      The model is trained using TensorFlow/Keras and achieves high accuracy on unseen images. Instead of using the pretrained model, here i use my own cnn model         which is as done into the code
+      The model is trained using TensorFlow/Keras and achieves high accuracy on unseen images. Instead of using the pretrained model, here i use my own cnn model which is as done into the code
 
 🚀 Features
 
